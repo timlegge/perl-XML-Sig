@@ -3,7 +3,7 @@ NAME
     Signatures
 
 VERSION
-    version 0.68
+    version 0.69
 
 SYNOPSIS
        my $xml = '<foo ID="abc">123</foo>';
@@ -304,7 +304,7 @@ AUTHOR
     Timothy Legge <timlegge@gmail.com>
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2025 by Byrne Reese, Chris Andrews and
+    This software is copyright (c) 2026 by Byrne Reese, Chris Andrews and
     Others; in detail:
 
       Copyright 2009       Byrne, Michael Hendricks
